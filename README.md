@@ -20,13 +20,7 @@ dart compile exe bin/open_project.dart -o bin/opro.exe
 
   - windows: <a href="https://stackoverflow.com/questions/44272416/add-a-folder-to-the-path-environment-variable-in-windows-10-with-screenshots">stack overflow thread on it</a>
 
-  - linux (bash):
-
-  ```bash
-  nano ~/.bashrc
-  export PATH=$PATH:<path_of_bin/opro.exe> # add this at the end
-  source ~/.bashrc
-  ```
+  - linux: not sure
 
 - Run the command:
 
