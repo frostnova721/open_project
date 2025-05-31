@@ -54,6 +54,6 @@ For further help, run
 opro help <command_name>
 ```
 
-LICENSE
+## LICENSE
 
 This project is licensed under MIT
