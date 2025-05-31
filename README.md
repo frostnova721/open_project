@@ -24,7 +24,7 @@ dart compile exe bin/open_project.dart -o bin/opro.exe
 
   ```bash
   nano ~/.bashrc
-  export PATH=$PATH:<path_of_bin/opro.exe>
+  export PATH=$PATH:<path_of_bin/opro.exe> # add this at the end
   source ~/.bashrc
   ```
 
