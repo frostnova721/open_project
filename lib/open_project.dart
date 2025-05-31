@@ -1,7 +1,6 @@
 import 'dart:convert';
 import 'dart:io';
 
-const String projectsDir = "I:\\Projects";
 const String configFile = "./op_pro_config.json";
 
 const List<String> commands = ['list', 'add', 'remove', 'help'];
